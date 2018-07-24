@@ -31,7 +31,7 @@ namespace App3
             this.InitializeComponent();
             this.Suspending += OnSuspending;
         }
-
+        public string TestString;
         /// <summary>
         /// Invoked when the application is launched normally by the end user.  Other entry points
         /// will be used such as when the application is launched to open a specific file.
